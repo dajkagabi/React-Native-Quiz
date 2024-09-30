@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "question": "Mi a React Native?",
+    "answers": [
+      {
+        "text": "Egy mobilfejlesztési keretrendszer",
+        "isCorrect": true
+      },
+      {
+        "text": "Egy adatbázis-kezelő",
+        "isCorrect": false
+      },
+      {
+        "text": "Egy operációs rendszer",
+        "isCorrect": false
+      },
+      {
+        "text": "Egy programozási nyelv",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A React Native egy mobilfejlesztési keretrendszer, amely lehetővé teszi mobilalkalmazások fejlesztését JavaScript segítségével."
+  },
+
+  {
+    "id": 2,
+    "question": "Milyen nyelven írjuk a React Native alkalmazásokat?",
+    "answers": [
+      {
+        "text": "Python",
+        "isCorrect": false
+      },
+      {
+        "text": "JavaScript",
+        "isCorrect": true
+      },
+      {
+        "text": "Swift",
+        "isCorrect": false
+      },
+      {
+        "text": "C++",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A React Native alkalmazásokat főként JavaScript nyelven írjuk."
+  },
+
+  {
+    "id": 3,
+    "question": "Melyik cég fejlesztette ki a React Native-t?",
+    "answers": [
+      {
+        "text": "Google",
+        "isCorrect": false
+      },
+      {
+        "text": "Facebook",
+        "isCorrect": true
+      },
+      {
+        "text": "Microsoft",
+        "isCorrect": false
+      },
+      {
+        "text": "Apple",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Facebook"
+  },
+  
+    {
+      "id": 4,
+      "question": "Mi az a JSX?",
+      "answers": [
+        {
+          "text": "JavaScript XML",
+          "isCorrect": true
+        },
+        {
+          "text": "JavaScript Xtra",
+          "isCorrect": false
+        },
+        {
+          "text": "JQuery XML",
+          "isCorrect": false
+        },
+        {
+          "text": "Java XML",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "A JSX egy JavaScript szintaxis kiterjesztés, amely lehetővé teszi, hogy HTML-szerű szintaxist használj JavaScript kódban."
+    },
+
+  
+
+    {
+      "id": 6,
+      "question": "Mi a React Native fő előnye?",
+      "answers": [
+        {
+          "text": "Könnyen használható JavaScript",
+          "isCorrect": false
+        },
+        {
+          "text": "Keresztplatformos fejlesztés",
+          "isCorrect": true
+        },
+        {
+          "text": "Nincs szükség programozásra",
+          "isCorrect": false
+        },
+        {
+          "text": "Korlátozott platformok",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "A React Native fő előnye, hogy lehetővé teszi a fejlesztők számára, hogy egyetlen kódbázist használjanak mind iOS, mind Android alkalmazásokhoz."
+    },
+
+    {
+      "id": 7,
+      "question": "Melyik könyvtárat használják a navigációhoz React Native-ban?",
+      "answers": [
+        {
+          "text": "React Router",
+          "isCorrect": false
+        },
+        {
+          "text": "React Navigation",
+          "isCorrect": true
+        },
+        {
+          "text": "React Native Router",
+          "isCorrect": false
+        },
+        {
+          "text": "Vue Router",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "A React Navigation könyvtárat használják a navigáció kezelésére React Native alkalmazásokban."
+    }
+  ]
+  
+
