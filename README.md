@@ -12,7 +12,9 @@ A projekt inicializálása az Expo segítségével történt, amely egyszerű m�
 A projektet a következő parancs segítségével inicializáltam:
 
 bash
-expo init Quiz
+```expo init Quiz```
+vagy
+```npx create-expo-app --template``` (Blank)
 
 Ez a parancs a régi JavaScript alapú sablont használja.
 
