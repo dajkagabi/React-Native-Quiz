@@ -1,14 +1,14 @@
-#React-Native-Quiz-App
+# React-Native-Quiz-App
 
 A repository egy React Native kvízalkalmazást mutat be.
 
 Az alkalmazás kérdések és válaszok megjelenítésére szolgáló komponenseket tartalmaz, és JSON fájlt használ a kvíz tartalmának kezelésére. Ez megkönnyíti a kérdések frissítését és bővítését. 
 
-##Projekt Inicializálás - Quiz
+## Projekt Inicializálás - Quiz
 
 A projekt inicializálása az Expo segítségével történt, amely egyszerű módot biztosít React Native alkalmazások fejlesztésére. Az alábbi lépéseket követtem a projekt beállításához:
 
-###Projekt létrehozása
+### Projekt létrehozása
 A projektet a következő parancs segítségével inicializáltam:
 
 bash
