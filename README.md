@@ -4,7 +4,6 @@ A repository egy React Native kvízalkalmazást mutat be.
 
 Az alkalmazás kérdések és válaszok megjelenítésére szolgáló komponenseket tartalmaz, és JSON fájlt használ a kvíz tartalmának kezelésére. Ez megkönnyíti a kérdések frissítését és bővítését. 
 
-
 Projekt Inicializálás - Quiz
 
 A projekt inicializálása az Expo segítségével történt, amely egyszerű módot biztosít React Native alkalmazások fejlesztésére. Az alábbi lépéseket követtem a projekt beállításához:
@@ -13,14 +12,16 @@ Projekt létrehozása
 A projektet a következő parancs segítségével inicializáltam:
 
 bash
-Kód másolása
 expo init Quiz
-Ez a parancs a régi JavaScript alapú sablont használja. Az Expo verzió, amit használtam: expo@51.0.35.
+
+Ez a parancs a régi JavaScript alapú sablont használja.
+
+Az Expo verzió, amit használtam: expo@51.0.35.
 
 Navigáció beállítása
-A navigációhoz szükséges csomagok telepítése az alábbi lépések szerint történt:
 
-@react-navigation telepítése:
+A navigációhoz szükséges csomagok telepítése az alábbi lépések szerint történt: react-navigation telepítése:
+
 bash
 npm install @react-navigation/native
 
