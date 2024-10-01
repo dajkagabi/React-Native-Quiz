@@ -45,8 +45,7 @@ bash
 ```
 npm install @react-navigation/native-stack
 ```
-Az újabb Expo verziók már a TypeScript nyelvet támogatják, és a következő paranccsal lehet létrehozni egy újabb projektet **TypeScript**-tel:
-
+Az újabb Expo verziók már a **TypeScript** nyelvet támogatják, és a következő paranccsal lehet létrehozni egy újabb projektet.
 bash
 ```
 npx create-expo-app@latest
