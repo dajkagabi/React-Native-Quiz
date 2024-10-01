@@ -24,7 +24,7 @@ Navigáció beállítása
 
 A navigációhoz szükséges csomagok telepítése az alábbi lépések szerint történt.
 
-#React-navigation telepítése:
+# React-navigation telepítése:
 
 bash
 ```
