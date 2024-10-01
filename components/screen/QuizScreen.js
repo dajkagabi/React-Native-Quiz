@@ -68,20 +68,20 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   btn: {
-    backgroundColor: '#6200ee', // Gomb háttérszín
-    borderRadius: 10, // Lekerekített sarkok
-    paddingVertical: 12, // Felső és alsó kitöltés
-    paddingHorizontal: 20, // Bal és jobb kitöltés
-    shadowColor: '#000', // Árnyék szín
-    shadowOffset: { width: 0, height: 2 }, // Árnyék eltolás
-    shadowOpacity: 0.3, // Árnyék átlátszóság
-    shadowRadius: 6, // Árnyék sugara
-    elevation: 5, // Android árnyék
-    alignItems: 'center', // Középre igazítás
-    marginVertical: 5, // Növelt margó a gombok között
+    backgroundColor: '#6200ee', 
+    borderRadius: 10, 
+    paddingVertical: 12,
+    paddingHorizontal: 20, 
+    shadowColor: '#000', 
+    shadowOffset: { width: 0, height: 2 }, 
+    shadowOpacity: 0.3, 
+    shadowRadius: 6, 
+    elevation: 5, 
+    alignItems: 'center', 
+    marginVertical: 5,
   },
   btnText: {
-    color: '#ffffff', // Szöveg színe
+    color: '#ffffff', 
     fontSize: 16,
     fontWeight: 'bold',
   },
