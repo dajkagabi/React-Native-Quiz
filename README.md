@@ -16,7 +16,7 @@ expo init Quiz
 
 Ez a parancs a régi JavaScript alapú sablont használja.
 
-Az Expo verzió, amit használtam: expo@51.0.35.
+Az Expo verzió, amit használtam: ```npm install expo@51.0.35```
 
 Navigáció beállítása
 
